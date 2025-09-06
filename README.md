@@ -36,15 +36,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
-## 📈 Research Metrics
-
-<div align="center">
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathanielneil&theme=dark&hide_border=true)
-
-</div>
-
-
 ## ⚡ Fun Facts
 
 - 🎮 Built my first drone at age 16
