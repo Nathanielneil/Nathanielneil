@@ -39,7 +39,6 @@
 ## ⚡ Fun Facts
 
 - 🎮 Built my first drone at age 16
-- 🏃‍♂️ Marathon runner 
 - 📸 Aerial photography enthusiast
 - ☕ Powered by coffee and curiosity
 
