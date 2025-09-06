@@ -72,59 +72,6 @@
 
 </div>
 
-## 🎓 Academic Background
-
-- **Ph.D. Candidate** - Robotics Engineering, [University Name]
-- **M.S.** - Computer Science, Focus on Machine Learning
-- **B.S.** - Electrical Engineering, Control Systems
-
-## 🏆 Achievements
-
-- 📜 3 Patents Filed in UAV Navigation Technology
-
-
-## 🔬 Current Research
-
-```python
-class UAVResearcher:
-    def __init__(self):
-        self.current_projects = [
-            "Multi-UAV Collaborative Navigation",
-            "Sim-to-Real Transfer Learning",
-            "Robust Visual SLAM for UAVs"
-        ]
-        self.research_interests = [
-            "Autonomous Systems",
-            "Computer Vision", 
-            "Reinforcement Learning",
-            "Robotics Simulation"
-        ]
-    
-    def daily_routine(self):
-        return [
-            "🔬 Run simulation experiments",
-            "📊 Analyze RL training results", 
-            "📝 Write research papers",
-            "🤝 Collaborate with team"
-        ]
-```
-
-## 📚 Recent Publications
-
-
-## 🤝 Collaboration
-
-### Open Source Contributions
-- 🌟 Contributor to **PX4 Autopilot** - Flight control stack
-- 🔧 Maintainer of **UAV-Toolkit** - Custom ROS packages  
-- 📦 Developer of **GazeboWorld** - Simulation environments
-
-### Looking for Collaboration On:
-- Multi-agent UAV systems
-- Real-time computer vision algorithms
-- Robotics simulation frameworks
-- Academic research partnerships
-
 
 ## ⚡ Fun Facts
 
