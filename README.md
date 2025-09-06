@@ -59,11 +59,6 @@
     └── Hardware integration
 ```
 
-### 🔬 Research Publications
-- **[2024]** "Non-Expert Guided Visual Navigation for UAVs in Complex Environments"
-- **[2023]** "Reinforcement Learning Approaches for Autonomous Drone Navigation" 
-- **[2023]** "Gazebo-Based Simulation Framework for UAV Development"
-
 ## 📈 Research Metrics
 
 <div align="center">
