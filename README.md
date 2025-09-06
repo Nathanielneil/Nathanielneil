@@ -1,7 +1,7 @@
 # 👋 Hello, Nice to meet U!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Robotics+Engineer;UAV+Navigation+Specialist;Reinforcement+Learning+Researcher;Computer+Vision+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Robotics+Engineer;Reinforcement+Learning+Researcher;Computer+Vision+Developer" alt="Typing Animation" />
 </div>
 
 ## 🎯 Research Focus
