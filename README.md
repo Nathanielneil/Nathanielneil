@@ -53,4 +53,10 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nathanielneil&color=blueviolet&style=flat-square&label=Visitors)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Nathanielneil&color=lightgrey&style=flat-square&label=Profile+Views)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Nathanielneil&color=ff6b6b&style=flat-square&label=Visitors)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Nathanielneil&color=blue&style=flat-square&label=Views)
+
 </div>
