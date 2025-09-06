@@ -9,7 +9,6 @@
 - 🚁 **UAV Navigation Systems** - Developing autonomous navigation frameworks
 - 🤖 **Reinforcement Learning** - Non-expert guided learning algorithms  
 - 👁️ **Computer Vision** - Visual perception for autonomous systems
-- 🎮 **Gazebo Simulation** - Robotics simulation and testing environments
 - 📡 **ROS Development** - Robot Operating System applications
 
 ## 🛠️ Technical Stack
