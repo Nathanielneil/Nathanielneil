@@ -42,26 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanielneil&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </div>
 
-## 🚁 Featured Projects
-
-### UAV Navigation & Control
-```
-├── 🎯 NonExpert-Guided-Visual-UAV-Navigation
-│   ├── Gazebo-based simulation framework
-│   ├── Reinforcement learning navigation
-│   └── Obstacle detection & avoidance
-│
-├── 🎮 Gazebo-UAV-RL
-│   ├── RL environment for UAV training  
-│   ├── Custom reward functions
-│   └── Multi-agent scenarios
-│
-└── 👁️ Vision-Based-UAV-Control
-    ├── Computer vision algorithms
-    ├── Real-time perception pipeline
-    └── Hardware integration
-```
-
 ## 📈 Research Metrics
 
 <div align="center">
