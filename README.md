@@ -53,6 +53,8 @@
 
 </div>
 
+</div>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nathanielneil&color=green&style=flat-square&label=Visitors)
 
 
