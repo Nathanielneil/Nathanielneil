@@ -47,7 +47,9 @@
 
 <div align="center">
   
-**"The future belongs to those who can navigate both the digital and physical worlds seamlessly."**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=The+future+belongs+to+those+who+can+navigate...;both+the+digital+and+physical+worlds+seamlessly." alt="Philosophy" />
+</div>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nathanielneil&color=green&style=flat-square&label=Visitors)
 
