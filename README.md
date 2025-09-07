@@ -49,9 +49,9 @@
   
 <div align="center">
   
-```cpp
-// Philosophy.hpp
-const char* life_motto = "The future belongs to those who can navigate both the digital and physical worlds seamlessly.";
+**"🌊 The future belongs to those who can navigate both the digital and physical worlds seamlessly. 🌊"**
+
+</div>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nathanielneil&color=green&style=flat-square&label=Visitors)
 
