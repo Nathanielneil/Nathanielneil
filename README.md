@@ -22,6 +22,7 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square&logo=gazebo&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![AirSim](https://img.shields.io/badge/AirSim-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AirSim](https://img.shields.io/badge/AirSim-00BCF2?style=flat-square&logo=microsoft&logoColor=white)
 
 ### ML/AI Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
