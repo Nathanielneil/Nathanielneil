@@ -40,6 +40,7 @@
 ## ⚡ Fun Facts
 
 - ☕ Powered by coffee and curiosity
+- 🛸 Made my first quadrotor at 18
 
 ---
 
