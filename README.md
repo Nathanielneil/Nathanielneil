@@ -23,6 +23,14 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![AirSim](https://img.shields.io/badge/AirSim-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
+### Test
+![CLIP](https://img.shields.io/badge/CLIP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![Multimodal](https://img.shields.io/badge/Multimodal-8A2BE2?style=flat-square&logoColor=white)
+![Vision-Language](https://img.shields.io/badge/Vision--Language-00CED1?style=flat-square&logoColor=white)
+![VLM](https://img.shields.io/badge/VLM-FF4500?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6347?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-32CD32?style=flat-square&logoColor=white)
+
 ### ML/AI Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
