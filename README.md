@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Ph.D.+in+Control+Science+and+Engineering;Robotics+Engineer;Reinforcement+Learning+Researcher;Computer+Vision+Developer" alt="Typing Animation" />
 </div>
 
-## 🎯 Research Focus
+## <picture><img src = "https://github.com/Nathanielneil/Nathanielneil/blob/main/about_me.gif?raw=true" width = 30px></picture> Research Focus
 
 - 🚁 **UAV Navigation Systems** - Developing autonomous navigation frameworks
 - 🤖 **Reinforcement Learning** - Non-expert guided learning algorithms  
