@@ -1,4 +1,4 @@
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/12ef7d18-92d8-4312-a7ea-454b7bf68e59" /># Hello, Nice to meet U!
+# Hello, Nice to meet U!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Talk+is+cheap+,+show+me+your+code;Robotics+Engineer;Reinforcement+Learning+Researcher;Computer+Vision+Developer" alt="Typing Animation" />
