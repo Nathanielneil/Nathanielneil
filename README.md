@@ -8,8 +8,8 @@
 
 - 🚁 **UAV Navigation Systems** - Developing autonomous navigation frameworks
 - 🤖 **Reinforcement Learning** - Non-expert guided learning algorithms  
-- 👁️ **Computer Vision** - Visual perception for autonomous systems
-- 📡 **ROS Development** - Robot Operating System applications
+- 👁️ **MLLM** - Multimodal large language model
+- 📡 **ROS Development** - ROS applications
 
 ## 🛠️ Technical Stack
 
