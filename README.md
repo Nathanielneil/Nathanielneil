@@ -6,8 +6,8 @@
 
 ## <picture><img src = "https://github.com/Nathanielneil/Nathanielneil/blob/main/about_me.gif?raw=true" width = 30px></picture> Research Focus
 
-- 🚁 **UAV Navigation Systems** - Developing autonomous navigation frameworks
-- 🤖 **Reinforcement Learning** - Non-expert guided learning algorithms  
+- 🚁 **UAV VLN** - VLM based UAV autonomous navigation frameworks
+- 🤖 **RL** - Non-expert guided learning algorithms  
 - 👁️ **MLLM** - Multimodal large language model
 - 📡 **ROS Development** - ROS applications
 
