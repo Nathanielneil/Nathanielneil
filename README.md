@@ -1,55 +1,96 @@
-# Hello, Nice to meet U!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Talk+is+cheap,+show+me+your+code." alt="Typing Animation" />
+
+<pre>
+███╗   ██╗ █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗███████╗██╗
+████╗  ██║██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║██╔════╝██║
+██╔██╗ ██║███████║   ██║   ███████║███████║██╔██╗ ██║██║█████╗  ██║
+██║╚██╗██║██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╗██║██║██╔══╝  ██║
+██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║██║██║     ██║
+╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝
+
+        UAV AUTONOMOUS NAVIGATION · VISION-LANGUAGE-REASONING
+        REINFORCEMENT LEARNING · MULTIMODAL ROBOTICS
+</pre>
+
+<p>
+  <a href="https://github.com/Nathanielneil"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Nathanielneil&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&duration=2800&color=24292F&center=true&vCenter=true&width=700&height=44&lines=Teaching+machines+to+see%2C+reason%2C+and+fly;UAV+VLN+%C2%B7+RL+%C2%B7+MLLM+%C2%B7+ROS;From+simulation+to+real-world+robotics" alt="Rotating research interests" />
+</p>
+
 </div>
 
-## <picture><img src = "https://github.com/Nathanielneil/Nathanielneil/blob/main/about_me.gif?raw=true" width = 30px></picture> Research Focus
+<br />
 
-- 🚁 **UAV VLN** - VLM based UAV autonomous navigation frameworks
-- 🤖 **RL** - Non-expert guided learning algorithms  
-- 👁️ **MLLM** - Multimodal large language model
-- 📡 **ROS Development** - ROS applications
+<p align="center">
+  <a href="https://github.com/Nathanielneil">
+    <img src="./about_me.gif" width="260" alt="Animated introduction" />
+  </a>
+</p>
 
-## 🛠️ Technical Stack
+<p align="center"><sub><i>Researching reliable autonomy at the intersection of vision, language and control.</i></sub></p>
 
-### Core Technologies
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square&logo=gazebo&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![AirSim](https://img.shields.io/badge/AirSim-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+## Research focus
 
+| Area | What I work on |
+| --- | --- |
+| 🚁 **UAV VLN** | Vision-language navigation and autonomous aerial agents |
+| 🤖 **Reinforcement learning** | Learning algorithms that can be guided by non-experts |
+| 👁️ **MLLMs** | Multimodal models for perception, planning and decision-making |
+| 📡 **Robotics systems** | ROS applications, simulation and sim-to-real deployment |
 
-### ML/AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+## Engineering stack
 
-### Development Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,ros,linux,docker,git,matlab,unreal" alt="Python, C++, C, PyTorch, TensorFlow, OpenCV, ROS, Linux, Docker, Git, MATLAB and Unreal Engine" />
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/AirSim-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AirSim" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+</p>
 
-## ⚡ Fun Facts
+## GitHub telemetry
 
-- ☕ Powered by coffee and curiosity
-- 🛸 Made my first quadrotor at 18
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nathanielneil&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanielneil&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Most used languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathanielneil&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true" width="100%" alt="Commit activity graph" />
+</p>
+
+## Contribution map
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathanielneil/Nathanielneil/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathanielneil/Nathanielneil/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Nathanielneil/Nathanielneil/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+  </picture>
+</p>
+
+<p align="center"><sub><i>Generated daily by GitHub Actions.</i></sub></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+  </picture>
+</p>
+
+<br />
+
+<p align="center">
+  <sub><code>[ currently building ]</code> &nbsp; embodied intelligence for the physical world</sub>
+</p>
 
 <div align="center">
-  
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=The+future+belongs+to+those+who+can+navigate...;both+the+digital+and+physical+worlds+seamlessly." alt="Philosophy" />
-</div>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Nathanielneil&color=green&style=flat-square&label=Visitors)
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:000000,100:434343" width="100%" alt="Footer" />
 </div>
