@@ -8,8 +8,6 @@
 ██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║██║██║     ██║
 ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝
 
-        UAV AUTONOMOUS NAVIGATION · VISION-LANGUAGE-REASONING
-        REINFORCEMENT LEARNING · MULTIMODAL ROBOTICS
 </pre>
 
 <p>
