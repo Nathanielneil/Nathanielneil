@@ -42,11 +42,6 @@
 ## GitHub telemetry
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nathanielneil&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanielneil&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathanielneil&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true" width="100%" alt="Commit activity graph" />
 </p>
 
