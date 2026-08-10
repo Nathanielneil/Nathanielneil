@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/Nathanielneil">
-    <img src="./about_me.gif" width="170" alt="Animated introduction" />
+    <img src="./about_me.gif" width="140" alt="Animated introduction" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 ## Engineering stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,ros,linux,docker,git,matlab,unreal" alt="Python, C++, C, PyTorch, TensorFlow, OpenCV, ROS, Linux, Docker, Git, MATLAB and Unreal Engine" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,ros,linux,docker,git,matlab,unreal" width="420" alt="Python, C++, C, PyTorch, TensorFlow, OpenCV, ROS, Linux, Docker, Git, MATLAB and Unreal Engine" />
 </p>
 
 ## GitHub telemetry
