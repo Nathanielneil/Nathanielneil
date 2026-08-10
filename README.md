@@ -15,10 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=Nathanielneil&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&duration=2800&color=24292F&center=true&vCenter=true&width=700&height=44&lines=Teaching+machines+to+see%2C+reason%2C+and+fly;UAV+VLN+%C2%B7+RL+%C2%B7+MLLM+%C2%B7+ROS;From+simulation+to+real-world+robotics" alt="Rotating research interests" />
-</p>
-
 </div>
 
 ## Engineering stack
