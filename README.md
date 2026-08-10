@@ -39,8 +39,6 @@
   </picture>
 </p>
 
-<p align="center"><sub><i>Generated daily by GitHub Actions.</i></sub></p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
