@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/Nathanielneil">
-    <img src="./about_me.gif" width="210" alt="Animated introduction" />
+    <img src="./about_me.gif" width="170" alt="Animated introduction" />
   </a>
 </p>
 
