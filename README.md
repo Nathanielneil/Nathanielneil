@@ -33,15 +33,6 @@
 
 <p align="center"><sub><i>Researching reliable autonomy at the intersection of vision, language and control.</i></sub></p>
 
-## Research focus
-
-| Area | What I work on |
-| --- | --- |
-| 🚁 **UAV VLN** | Vision-language navigation and autonomous aerial agents |
-| 🤖 **Reinforcement learning** | Learning algorithms that can be guided by non-experts |
-| 👁️ **MLLMs** | Multimodal models for perception, planning and decision-making |
-| 📡 **Robotics systems** | ROS applications, simulation and sim-to-real deployment |
-
 ## Engineering stack
 
 <p>
