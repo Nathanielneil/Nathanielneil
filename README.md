@@ -13,6 +13,7 @@
 </pre>
 
 <p>
+  <a href="https://github.com/Nathanielneil"><img src="./about_me.gif" width="24" height="24" alt="Animated introduction" style="vertical-align: middle;" /></a>&nbsp;
   <a href="https://github.com/Nathanielneil"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=Nathanielneil&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -22,16 +23,6 @@
 </p>
 
 </div>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/Nathanielneil">
-    <img src="./about_me.gif" width="24" alt="Animated introduction" />
-  </a>
-</p>
-
-<p align="center"><sub><i>Researching reliable autonomy at the intersection of vision, language and control.</i></sub></p>
 
 ## Engineering stack
 
