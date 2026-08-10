@@ -35,14 +35,8 @@
 
 ## Engineering stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,ros,linux,docker,git,matlab,unreal" alt="Python, C++, C, PyTorch, TensorFlow, OpenCV, ROS, Linux, Docker, Git, MATLAB and Unreal Engine" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/AirSim-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AirSim" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
 </p>
 
 ## GitHub telemetry
