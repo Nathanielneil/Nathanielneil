@@ -1,14 +1,7 @@
 ## Engineering stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,ros,linux,docker,git,matlab,unreal" width="420" alt="Python, C++, C, PyTorch, TensorFlow, OpenCV, ROS, Linux, Docker, Git, MATLAB and Unreal Engine" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,ros,linux,docker,git,matlab,unreal,cuda,huggingface,cmake" width="525" alt="Python, C++, C, PyTorch, TensorFlow, OpenCV, ROS, Linux, Docker, Git, MATLAB, Unreal Engine, CUDA, Hugging Face and CMake" />
 </p>
 
 ## GitHub telemetry
