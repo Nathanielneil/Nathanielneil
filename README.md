@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/Nathanielneil"><img src="./about_me.gif" width="24" height="24" alt="Animated introduction" style="vertical-align: middle;" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Nathanielneil&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nathanielneil&color=0d1117&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor count" />
 </p>
 
 <div align="center">
