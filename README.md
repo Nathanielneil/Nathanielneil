@@ -1,10 +1,8 @@
-## Engineering stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,ros,linux,docker,git,matlab,unreal,cmake" width="455" alt="Python, C++, C, PyTorch, TensorFlow, OpenCV, ROS, Linux, Docker, Git, MATLAB, Unreal Engine and CMake" />
-  <img src="./assets/cuda.svg" width="32" height="32" alt="CUDA" style="vertical-align: middle;" />
-  <img src="./assets/huggingface.svg" width="32" height="32" alt="Hugging Face" style="vertical-align: middle;" />
-</p>
+<h2>Engineering stack&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,ros,linux,docker,git,matlab,unreal,cmake" width="455" alt="Python, C++, C, PyTorch, TensorFlow, OpenCV, ROS, Linux, Docker, Git, MATLAB, Unreal Engine and CMake" align="absmiddle" />
+  <img src="./assets/cuda.svg" width="32" height="32" alt="CUDA" align="absmiddle" />
+  <img src="./assets/huggingface.svg" width="32" height="32" alt="Hugging Face" align="absmiddle" />
+</h2>
 
 ## GitHub telemetry
 
