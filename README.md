@@ -5,7 +5,7 @@
 </h2>
 
 ## GitHub telemetry
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathanielneil&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true&height=280" width="900" alt="Commit activity graph" /></div>
+<div align="center"><img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Nathanielneil&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true&height=280" width="900" alt="Commit activity graph" /></div>
 <h2>Contribution map</h2>
 
 <p align="center">
